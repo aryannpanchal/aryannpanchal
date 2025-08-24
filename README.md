@@ -52,5 +52,5 @@
 ### 🐍 Contribution Snake  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aryannpanchal/aryannpanchal/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/aryannpanchal/aryannpanchal/snake.svg" alt="Snake animation" />
 </p>
