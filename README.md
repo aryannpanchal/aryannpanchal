@@ -55,10 +55,3 @@
   <img src="/snake.svg" alt="Snake animation" />
 </p>
 
-###
-
-<br clear="both">
-
-<img src="/snake.svg" alt="Snake animation" />
-
-###
