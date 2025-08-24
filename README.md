@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Aryan Panchal</h2>
-<h3 align="center">A passionate AI/ML researcher & full-stack developer from India 🇮🇳</h3>
+<h3 align="center">An AI/ML researcher & full-stack developer from Clemson, SC, USA</h3>
 
 ---
 
@@ -7,7 +7,7 @@
   🌱 Currently exploring <b>Deep Learning, Computer Vision & Healthcare AI</b> <br/>
   🔭 Working on projects in <b>Machine Learning, React, Next.js, and Cloud</b> <br/>
   🎓 CS Engineering student, researcher, and startup engineer @ Chemisphere <br/>
-  📫 Reach me at: <b>aryan.panchal@example.com</b> <br/>
+  📫 Reach me at: <b>aryan.panchal1204@gmail.com</b> <br/>
 </p>
 
 ---
@@ -52,6 +52,5 @@
 ### 🐍 Contribution Snake  
 
 <p align="center">
-  <img src="/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/aryannpanchal/aryannpanchal/output/snake.svg" alt="Snake animation" />
 </p>
-
