@@ -1,56 +1,52 @@
-<h2 align="center">Hi 👋, I'm Aryan Panchal</h2>
-<h3 align="center">An AI/ML researcher & full-stack developer from Clemson, SC, USA</h3>
+<h1 align="center">Hey 👋What's Up? Aryan this side from Clemson, SC, USA</h1>
 
----
+###
 
-<p align="center">
-  🌱 Currently exploring <b>Deep Learning, Computer Vision & Healthcare AI</b> <br/>
-  🔭 Working on projects in <b>Machine Learning, React, Next.js, and Cloud</b> <br/>
-  🎓 CS Engineering student, researcher, and startup engineer @ Chemisphere <br/>
-  📫 Reach me at: <b>aryan.panchal1204@gmail.com</b> <br/>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+</div>
 
----
+###
 
-### 🛠️ Languages & Tools  
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,html,css,tailwind,bootstrap,java,cs,cpp,git,github,linux,vscode,figma" />
-</p>
+###
 
----
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-### 📊 GitHub Stats  
+###
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryannpanchal&show_icons=true&theme=tokyonight&count_private=true" height="170" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryannpanchal&layout=compact&theme=tokyonight&langs_count=8" height="170" alt="languages graph" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aryannpanchal&theme=tokyonight" height="170" alt="streak graph" />
-</p>
-
----
-
-### 🌐 Connect with Me  
-
-<p align="center">
-  <a href="https://linkedin.com/in/aryannpanchal" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:aryan.panchal@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/aryannpanchal" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
----
-
-### 🐍 Contribution Snake  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aryannpanchal/aryannpanchal/snake.svg" alt="Snake animation" />
-</p>
+###
