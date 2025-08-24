@@ -52,13 +52,13 @@
 ### 🐍 Contribution Snake  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aryannpanchal/aryannpanchal/snake.svg" alt="Snake animation" />
+  <img src="/snake.svg" alt="Snake animation" />
 </p>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake.svg" alt="Snake animation" />
+<img src="/snake.svg" alt="Snake animation" />
 
 ###
