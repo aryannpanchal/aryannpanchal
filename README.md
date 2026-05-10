@@ -58,7 +58,9 @@ Previously and currently, I have contributed as a **Full-Stack Developer at [Che
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aryannpanchal/aryannpanchal/output/contribution-city.svg" alt="3D contribution city generated from Aryan Panchal's GitHub activity" width="100%" />
+<a href="https://github.com/aryannpanchal/aryannpanchal/blob/output/contribution-city.svg">
+  <img src="https://github.com/aryannpanchal/aryannpanchal/blob/output/contribution-city.svg?raw=true" alt="3D contribution city generated from Aryan Panchal's GitHub activity" width="100%" />
+</a>
 
 <br />
 <br />

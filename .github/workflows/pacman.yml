@@ -19,11 +19,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate 3D contribution city
-        run: python .github/scripts/generate_contribution_city.py --user "${{ github.repository_owner }}" --output dist/contribution-city.svg
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Generate pacman contribution graph
         uses: abozanona/pacman-contribution-graph@main
         with:
@@ -35,6 +30,11 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=#36BCF7
+
+      - name: Generate 3D contribution city
+        run: python .github/scripts/generate_contribution_city.py --user "${{ github.repository_owner }}" --output dist/contribution-city.svg
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Publish animations to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
