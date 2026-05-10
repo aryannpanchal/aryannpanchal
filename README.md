@@ -1,4 +1,5 @@
 
+<img src="https://raw.githubusercontent.com/aryannpanchal/aryannpanchal/output/pacman-contribution-graph.svg" alt="Pacman contribution animation" width="100%" />
 
 ## About
 
@@ -70,7 +71,6 @@ Previously and currently, I have contributed as a **Full-Stack Developer at [Che
 <br />
 <br />
 
-<img src="https://raw.githubusercontent.com/aryannpanchal/aryannpanchal/output/pacman-contribution-graph.svg" alt="Pacman contribution animation" width="100%" />
 
 </div>
 
