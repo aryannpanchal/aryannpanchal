@@ -42,17 +42,7 @@ Previously and currently, I have contributed as a **Full-Stack Developer at [Che
 <div align="center">
 
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aryannpanchal&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=67e8f9&text_color=cbd5e1"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryannpanchal&layout=compact&theme=default&hide_border=true&langs_count=8"
-    alt="Aryan Panchal most used languages"
-  />
-</picture>
+
 
 <br />
 <br />
