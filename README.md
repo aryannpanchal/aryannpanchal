@@ -1,20 +1,4 @@
-<div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2600&pause=900&color=94A3B8&center=true&vCenter=true&width=760&lines=Graduate+Research+Assistant+at+Clemson+University;Building+thoughtful+web+products+and+AI+systems;Interested+in+research%2C+design%2C+and+developer+experience)
-
-<br />
-
-<a href="https://chemisphere.in">
-  <img src="https://img.shields.io/badge/Portfolio-0f172a?style=flat-square&logo=google-chrome&logoColor=white&labelColor=0f172a&color=0891b2" alt="Portfolio" />
-</a>
-<a href="https://github.com/aryannpanchal">
-  <img src="https://img.shields.io/badge/GitHub-0f172a?style=flat-square&logo=github&logoColor=white&labelColor=0f172a&color=334155" alt="GitHub" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=aryannpanchal&style=flat-square&color=0891b2&label=Profile+Views" alt="Profile views" />
-
-</div>
-
-<br />
 
 ## About
 
