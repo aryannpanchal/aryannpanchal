@@ -1,95 +1,138 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=900&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Aryan+Panchal;Full-Stack+Developer;AI+%26+ML+Researcher;Graduate+Research+Assistant+at+Clemson+University)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,45:1e3a8a,100:0891b2&text=Aryan%20Panchal&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20ML%20Researcher&descAlignY=58&animation=fadeIn" alt="Aryan Panchal header" width="100%" />
 
-# Aryan Panchal
+<br />
 
-**Full-Stack Developer | AI & ML Researcher | Graduate Research Assistant**
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2600&pause=900&color=94A3B8&center=true&vCenter=true&width=760&lines=Graduate+Research+Assistant+at+Clemson+University;Building+thoughtful+web+products+and+AI+systems;Interested+in+research%2C+design%2C+and+developer+experience)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-chemisphere.in-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chemisphere.in)
-[![GitHub](https://img.shields.io/badge/GitHub-aryannpanchal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryannpanchal)
-[![Research](https://img.shields.io/badge/Research-AI%20%26%20ML-1F6FEB?style=for-the-badge&logo=googlescholar&logoColor=white)](#current-focus)
+<br />
+
+<a href="https://chemisphere.in">
+  <img src="https://img.shields.io/badge/Portfolio-0f172a?style=flat-square&logo=google-chrome&logoColor=white&labelColor=0f172a&color=0891b2" alt="Portfolio" />
+</a>
+<a href="https://github.com/aryannpanchal">
+  <img src="https://img.shields.io/badge/GitHub-0f172a?style=flat-square&logo=github&logoColor=white&labelColor=0f172a&color=334155" alt="GitHub" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=aryannpanchal&style=flat-square&color=0891b2&label=Profile+Views" alt="Profile views" />
 
 </div>
 
----
+<br />
 
-## About Me
+## About
 
-I am a Computer Science graduate student and Graduate Research Assistant at **Clemson University**, building at the intersection of full-stack engineering, applied AI, and research-driven product development.
+I am a Computer Science graduate student and **Graduate Research Assistant at Clemson University**, working across full-stack engineering, applied AI, and research-driven product development.
 
-Currently, I work across web platforms, machine learning systems, and research tooling, with experience as a **Full-Stack Developer at [Chemisphere](https://chemisphere.in)** and an **AI Intern in Deep Learning at [Scanbo, Canada](https://www.scanbo.com)**.
+My work sits between clean product execution and intelligent systems: modern web applications, deep learning experiments, research tooling, and technical design that feels intentional instead of overbuilt.
 
-- Building with `Next.js`, `React`, `JavaScript`, `Python`, `SQL`, `MATLAB`, and AI/ML tooling
-- Focused on scalable web apps, intelligent systems, branding, product design, and research workflows
-- Open to collaborating on full-stack products, AI research, deep learning, and developer tools
+Previously and currently, I have contributed as a **Full-Stack Developer at [Chemisphere](https://chemisphere.in)** and as an **AI Intern in Deep Learning at [Scanbo, Canada](https://www.scanbo.com)**.
 
----
+<br />
 
-## Tech Stack
+## What I Work With
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Frontend</h3>
+      <p>Next.js, React, JavaScript, HTML, CSS</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>AI & Research</h3>
+      <p>Python, Deep Learning, AI/ML, MATLAB, experimentation</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Systems</h3>
+      <p>SQL, product architecture, research workflows, developer tooling</p>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nextjs,react,js,html,css,python,tensorflow,mysql,matlab,git&perline=10" alt="Tech stack icons" />
 
 </div>
 
----
+<br />
 
-## GitHub Stats
+## GitHub Overview
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aryannpanchal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="Aryan Panchal GitHub stats" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=aryannpanchal&theme=tokyonight&hide_border=true" alt="Aryan Panchal GitHub streak" />
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=aryannpanchal&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=67e8f9&icon_color=38bdf8&text_color=cbd5e1"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=aryannpanchal&show_icons=true&theme=default&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
+    alt="Aryan Panchal GitHub stats"
+  />
+</picture>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryannpanchal&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Aryan Panchal most used languages" />
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aryannpanchal&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=67e8f9&text_color=cbd5e1"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryannpanchal&layout=compact&theme=default&hide_border=true&langs_count=8"
+    alt="Aryan Panchal most used languages"
+  />
+</picture>
+
+<br />
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=aryannpanchal&theme=dark&hide_border=true&background=0D1117&ring=67E8F9&fire=38BDF8&currStreakLabel=67E8F9&sideLabels=CBD5E1&dates=94A3B8" alt="Aryan Panchal GitHub streak" />
 
 </div>
 
----
+<br />
 
-## Contribution Activity
+## Contribution Flow
 
 <div align="center">
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=aryannpanchal&theme=tokyo-night&hide_border=true&area=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryannpanchal&theme=react-dark&hide_border=true&bg_color=0d1117&color=cbd5e1&line=67e8f9&point=38bdf8&area=true&area_color=0e7490" alt="Aryan Panchal contribution activity graph" width="100%" />
 
-### Contribution Snake
+<br />
+<br />
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/aryannpanchal/aryannpanchal/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryannpanchal/aryannpanchal/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/aryannpanchal/aryannpanchal/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%" />
+</picture>
 
-### Pacman Contribution Animation
+<br />
+<br />
 
-![Pacman Contribution Graph](https://raw.githubusercontent.com/aryannpanchal/aryannpanchal/output/pacman-contribution-graph.svg)
+<img src="https://raw.githubusercontent.com/aryannpanchal/aryannpanchal/output/pacman-contribution-graph.svg" alt="Pacman contribution animation" width="100%" />
 
 </div>
 
----
+<br />
 
 ## Current Focus
 
-- Full-stack engineering with modern React and Next.js architectures
-- Deep learning research and applied AI systems
-- Clean product experiences, design thinking, and technical branding
-- Research assistance, experimentation, and reproducible ML workflows
+- Building refined full-stack experiences with modern React and Next.js
+- Developing applied AI and deep learning workflows
+- Exploring research systems that are reproducible, useful, and well-designed
+- Combining engineering, design thinking, and technical storytelling
 
----
+<br />
 
 <div align="center">
 
-### Let's Build Something Meaningful
+<sub>Open to thoughtful conversations around AI, research, product engineering, design systems, and developer experience.</sub>
 
-I enjoy conversations around **AI**, **research**, **product engineering**, **design**, **branding**, and **developer experience**.
+<br />
+<br />
 
-![Profile Views](https://komarev.com/ghpvc/?username=aryannpanchal&style=for-the-badge&color=36BCF7)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0891b2,55:1e3a8a,100:0f172a" alt="Footer wave" width="100%" />
 
 </div>
