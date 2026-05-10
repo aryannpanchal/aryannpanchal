@@ -41,17 +41,6 @@ Previously and currently, I have contributed as a **Full-Stack Developer at [Che
 
 <div align="center">
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=aryannpanchal&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=67e8f9&icon_color=38bdf8&text_color=cbd5e1"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=aryannpanchal&show_icons=true&theme=default&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
-    alt="Aryan Panchal GitHub stats"
-  />
-</picture>
 
 <picture>
   <source
