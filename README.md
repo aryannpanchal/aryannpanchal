@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,45:1e3a8a,100:0891b2&text=Aryan%20Panchal&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20ML%20Researcher&descAlignY=58&animation=fadeIn" alt="Aryan Panchal header" width="100%" />
-
-<br />
-
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2600&pause=900&color=94A3B8&center=true&vCenter=true&width=760&lines=Graduate+Research+Assistant+at+Clemson+University;Building+thoughtful+web+products+and+AI+systems;Interested+in+research%2C+design%2C+and+developer+experience)
 
 <br />
