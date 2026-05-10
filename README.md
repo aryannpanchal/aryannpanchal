@@ -98,6 +98,11 @@ Previously and currently, I have contributed as a **Full-Stack Developer at [Che
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/aryannpanchal/aryannpanchal/output/contribution-city.svg" alt="3D contribution city generated from Aryan Panchal's GitHub activity" width="100%" />
+
+<br />
+<br />
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryannpanchal&theme=react-dark&hide_border=true&bg_color=0d1117&color=cbd5e1&line=67e8f9&point=38bdf8&area=true&area_color=0e7490" alt="Aryan Panchal contribution activity graph" width="100%" />
 
 <br />

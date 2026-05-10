@@ -19,6 +19,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Generate 3D contribution city
+        run: python .github/scripts/generate_contribution_city.py --user "${{ github.repository_owner }}" --output dist/contribution-city.svg
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Generate pacman contribution graph
         uses: abozanona/pacman-contribution-graph@main
         with:
